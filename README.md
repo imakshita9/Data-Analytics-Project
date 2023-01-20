@@ -1,5 +1,4 @@
 # Data-Analytics-Project
-Contains project through which i learn!
 
 Sales Chart preview:
 
